@@ -22,35 +22,35 @@
             }
           },
           {
-            "id": "7ce5ad95685aa727",
+            "id": "b665b76ca5b4c559",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Familias de protocolo de rede.md",
+                "file": "Vault/Redes de computadores/Classificação de redes á abrangência geográfica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Familias de protocolo de rede"
+              "title": "Classificação de redes á abrangência geográfica"
             }
           },
           {
-            "id": "a0f0b4f0a43a7951",
+            "id": "f7a1de3a8b377585",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vault/Redes de computadores/Index.md",
+                "file": "Cabo Ethernet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Cabo Ethernet"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,38 +212,38 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "a0f0b4f0a43a7951",
+  "active": "b665b76ca5b4c559",
   "lastOpenFiles": [
-    "README.md",
-    "Vault/Redes de computadores/IPX SPX.md",
-    "Vault/Redes de computadores/NetBios.md",
-    "Vault/Redes de computadores/Objetivo TCP IP.md",
-    "Familias de protocolo de rede.md",
+    "Cabo Ethernet.md",
+    "Vault/Redes de computadores/Classificação de redes á abrangência geográfica.md",
     "Vault/Redes de computadores/Index.md",
+    "Vault/Redes de computadores/Objetivo TCP IP.md",
+    "Vault/Historia da internet/Index.md",
+    "Vault/Redes de computadores/Host e Hostname.md",
+    "Vault/Redes de computadores/Familias de protocolo de rede.md",
+    "Vault/Redes de computadores/Difusão de transmissão de dados.md",
+    "Vault/TCP vira TCP IP.md",
+    "Vault/TCP.md",
+    "Vault/Sequence number.md",
+    "Vault/ISP.md",
+    "Vault/Internet.md",
+    "Vault/IP.md",
+    "Vault/Endereço de IP.md",
+    "Vault/Bloqueio de rede.png",
+    "Vault/Redes de computadores/Tipos de fluxo de dados.md",
+    "Vault/Redes de computadores/Transmissão de dados basica.md",
+    "Vault/Redes de computadores/NetBios.md",
+    "Vault/Redes de computadores/IPX SPX.md",
+    "README.md",
     "TCP IP.md",
     "Vault/Intro Analise de tráfego/TCP Dump.md",
-    "Host e Hostname.md",
     "Vault/Redes de computadores/É possível uma rede sem servidor.md",
     "Vault/Redes de computadores/Servidor e cliente.md",
     "Vault/Redes de computadores/O que é a troca de informações.md",
     "Vault/Redes de computadores/O que é uma rede.md",
-    "Vault/Intro Analise de tráfego/Index.md",
     "Vault/Redes de computadores",
-    "Estudos/Dia 3.md",
-    "Estudos/Dia 1.md",
-    "Estudos/Dia 2.md",
-    "Vault/Bloqueio de rede.png",
-    "Vault/Intro Analise de tráfego/Analise de tráfego.md",
-    "Vault/Historia da internet/Desligamento ARPANET.md",
-    "Vault/Historia da internet/Index.md",
     "Estudos",
     "Vault/Intro Analise de tráfego",
-    "Vault/Historia da internet/CIDR para escassez.md",
-    "Vault/Historia da internet/A escassez de endereços IPv4.md",
-    "Vault/Historia da internet/DHCP para escassez.md",
-    "Vault/Historia da internet/NAT para escassez.md",
-    "Vault/Historia da internet/A nova Internet.md",
-    "Vault/Historia da internet/NSFNET.md",
     "Vault/RJ45.png",
     "Vault/Historia da internet",
     "Vault"
