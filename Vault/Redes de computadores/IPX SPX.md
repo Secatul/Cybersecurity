@@ -1,0 +1,1 @@
+- IPX/SPX - Criado em 1980 teve grande sucesso em 1990 mas entrou em decadência quando o TCP/IP se popularizou pelo mundo.

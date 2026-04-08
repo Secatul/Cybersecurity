@@ -1,0 +1,1 @@
+Em 1982 a [[ISO]] criou o padrão de interconexão, o modelo OSI.

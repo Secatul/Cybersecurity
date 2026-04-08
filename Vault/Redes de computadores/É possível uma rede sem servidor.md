@@ -1,0 +1,1 @@
+Não, se há um serviço a ser solicitado, há um servidor.
